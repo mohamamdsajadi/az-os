@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DCkQtIIgfhjpGBfOhBjFCekN3BXcgJtfdEXwLWVWQY4=",
+  "Source": "usbConnected",
+  "BasePath": "_content/usbConnected",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
