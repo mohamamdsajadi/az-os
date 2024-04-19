@@ -1,0 +1,14 @@
+D:\University\AZ-OS\Serilization\bin\Debug\net7.0\Serilization.exe
+D:\University\AZ-OS\Serilization\bin\Debug\net7.0\Serilization.deps.json
+D:\University\AZ-OS\Serilization\bin\Debug\net7.0\Serilization.runtimeconfig.json
+D:\University\AZ-OS\Serilization\bin\Debug\net7.0\Serilization.dll
+D:\University\AZ-OS\Serilization\bin\Debug\net7.0\Serilization.pdb
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.AssemblyInfoInputs.cache
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.AssemblyInfo.cs
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.csproj.CoreCompileInputs.cache
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.dll
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\refint\Serilization.dll
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.pdb
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\Serilization.genruntimeconfig.cache
+D:\University\AZ-OS\Serilization\obj\Debug\net7.0\ref\Serilization.dll
