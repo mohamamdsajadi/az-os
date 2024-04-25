@@ -1,0 +1,14 @@
+D:\University\AZ-OS\az-os\DownloadManager\bin\Debug\net7.0\DownloadManager.exe
+D:\University\AZ-OS\az-os\DownloadManager\bin\Debug\net7.0\DownloadManager.deps.json
+D:\University\AZ-OS\az-os\DownloadManager\bin\Debug\net7.0\DownloadManager.runtimeconfig.json
+D:\University\AZ-OS\az-os\DownloadManager\bin\Debug\net7.0\DownloadManager.dll
+D:\University\AZ-OS\az-os\DownloadManager\bin\Debug\net7.0\DownloadManager.pdb
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.AssemblyInfoInputs.cache
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.AssemblyInfo.cs
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.csproj.CoreCompileInputs.cache
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.dll
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\refint\DownloadManager.dll
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.pdb
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\DownloadManager.genruntimeconfig.cache
+D:\University\AZ-OS\az-os\DownloadManager\obj\Debug\net7.0\ref\DownloadManager.dll
