@@ -1,0 +1,5 @@
+Course: 1
+  Student: 2, Email: 3, Birth Year: 4, Entered Year: 5
+  Student: 2, Email: 3, Birth Year: 4, Entered Year: 5
+Course: course1
+  Student: 123, Email: 123, Birth Year: 123, Entered Year: 123
